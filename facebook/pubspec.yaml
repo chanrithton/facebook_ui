@@ -64,13 +64,11 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+    - images/videos/
     - images/facebook.png
-    - images/meta.png
-    - images/Rith.png
-    - images/like.png
-    - images/Ton Chanrith.png
-    - images/mother.png
-    - images/arrow.png
+    - images/photo/meta.png
+    - images/photo/Rith.png
+    - images/photo/Ton Chanrith.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

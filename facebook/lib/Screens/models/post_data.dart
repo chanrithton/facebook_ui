@@ -19,15 +19,21 @@ class PostData {
 
 var posts = [
   PostData(
-      ProfileUrl: "images/Rith.png",
+      ProfileUrl: "images/photo/Rith.png",
       Username: "Ton Chanrith",
       Posttime: "5:00 PM",
       Caption: "Hometown is more beautiful place",
       PhotoUrl: "images/Rith.png"),
   PostData(
-      ProfileUrl: "images/Rith.png",
+      ProfileUrl: "images/photo/Rith.png",
       Username: "Ton Chanrith",
       Posttime: "5:00 PM",
       Caption: "Hometown is more beautiful place",
       PhotoUrl: "images/Ton Chanrith.png"),
+  PostData(
+      ProfileUrl: "images/photo/Rith.png",
+      Username: "Ton Chanrith",
+      Posttime: "5:00 PM",
+      Caption: "Love you",
+      PhotoUrl: "images/mother.png"),
 ];

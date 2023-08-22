@@ -124,7 +124,7 @@ class LoginScreen extends StatelessWidget {
               ),
             ),
             Image.asset(
-              'images/meta.png',
+              'images/photo/meta.png',
               width: 80,
               height: 80,
               color: KeyBackColor,

@@ -60,7 +60,7 @@ class MenuScreen extends StatelessWidget {
                         padding: EdgeInsets.symmetric(horizontal: 10),
                         child: CircleAvatar(
                           radius: 30,
-                          backgroundImage: AssetImage('images/Rith.png'),
+                          backgroundImage: AssetImage('images/photo/Rith.png'),
                         ),
                       ),
                     ),
@@ -107,7 +107,8 @@ class MenuScreen extends StatelessWidget {
                             children: const [
                               CircleAvatar(
                                 radius: 30,
-                                backgroundImage: AssetImage('images/Rith.png'),
+                                backgroundImage:
+                                    AssetImage('images/photo/Rith.png'),
                               )
                             ],
                           )
